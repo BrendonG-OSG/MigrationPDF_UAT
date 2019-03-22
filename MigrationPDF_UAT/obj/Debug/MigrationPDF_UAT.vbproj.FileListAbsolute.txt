@@ -1,0 +1,40 @@
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe.config
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.pdb
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\bin\Debug\PDFNet.dll
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Form1.resources
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Resources.resources
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbproj.GenerateResource.Cache
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.exe
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.pdb
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.xml
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbprojResolveAssemblyReference.cache
+C:\Users\castellanog\Desktop\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.xml
+C:\Users\castellanog\Desktop\MigrationPDF_UAT.OLD\bin\Debug\MigrationPDF_UAT.exe.config
+C:\Users\castellanog\Desktop\MigrationPDF_UAT.OLD\obj\Debug\MigrationPDF_UAT.exe
+C:\Users\castellanog\Desktop\MigrationPDF_UAT.OLD\obj\Debug\MigrationPDF_UAT.xml
+C:\Users\castellanog\Desktop\MigrationPDF_UAT.OLD\obj\Debug\MigrationPDF_UAT.pdb
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe.config
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.exe
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.xml
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.pdb
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.pdb
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.xml
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\bin\Debug\PDFNet.dll
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbprojResolveAssemblyReference.cache
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Form1.resources
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Resources.resources
+D:\Gabe\Project Code\oldCode\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbproj.GenerateResource.Cache
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe.config
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.exe
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.xml
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.pdb
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.exe
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.pdb
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\bin\Debug\MigrationPDF_UAT.xml
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\bin\Debug\PDFNet.dll
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbprojResolveAssemblyReference.cache
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Form1.resources
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.Resources.resources
+\\technical\public\UserDocs\zGory\VB .NET (2010)\MigrationPDF_UAT\obj\Debug\MigrationPDF_UAT.vbproj.GenerateResource.Cache
